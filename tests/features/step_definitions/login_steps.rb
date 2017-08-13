@@ -1,4 +1,4 @@
-#language: pt
+#encoding: utf-8
 
 Dado(/^<um estado conhecido do sistema>$/) do                                  
   pending # Write code here that turns the phrase above into concrete actions  
